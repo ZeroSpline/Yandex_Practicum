@@ -1,0 +1,8 @@
+# игнорировать все файлы в каталоге 
+.ipynb_checkpoints/
+catboost_info/
+test_images/
+train_images/
+*.csv
+*.tsv
+*.zip
